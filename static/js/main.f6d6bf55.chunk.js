@@ -124,7 +124,7 @@
             id: 4,
             image: "fa-twitter",
             url: "https://www.twitter.com/",
-            handle: "prachal_patel",
+            handle: "bisane_girish",
             style: "socialicons",
           },
           {
