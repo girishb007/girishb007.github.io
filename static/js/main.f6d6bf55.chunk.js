@@ -81,22 +81,30 @@
         instagramId: "girish_bisane",
         facebookId: null,
         twitterId: "",
-        mediumId: null,
+        mediumId: "",
         description1:
           "Actively seeking Summer 2023 SWE Internship, Currenlty Pursuing Master's of Science in Software Engineering at San Jose State University, San Jose, CA will be to graduating in May 2024.\n\nInterested in Frontend development, Blockchain development, development of micro-services, & distributed systems. I have done projects, research work in the field of Enterpirse Applications and Decentralized Systems.",
         description2: 
         "\nI bring with me two and half years of work experince in Javascript, C++, Android, Salesforce from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
         description3:
         "\nI bring with me two and half years of work experince in Javascript, C++, Android, Salesforce from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase. I am passionate about implementing technology in providing solutions to problem statements that create significant impact and am actively looking for working with people with similar goals and learn from the experience of industry experts.",
-        githubRepos: null,
+        githubRepos: "https://github.com/girishb007",
         skills:
           "Java, JavaScript, Python, Golang, C++, Docker, Kubernetes, Kafka, Postman, GraphQL, MySQL, MongoDB, Redis Caching, React, Node, Redux, RESTful API services, HTML, CSS, Bootstrap, Mocha, JMeter, JUnit, GitHub, Linux/Unix, Object-Oriented Design, Scrum, AWS, Google Cloud Platform, Kong API Gateway, TensorFlow, NLP, NumPy, Pandas",
         icons: [
+          
           {
             id: 0,
             image: "fa-github",
             url: "https://github.com/",
             handle: "girishb007",
+            style: "socialicons",
+          },
+          {
+            id: 5,
+            image: "fa-medium",
+            url: "https://devpost.com/girishbisane9423?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav",
+            handle: "girishbisane9423",
             style: "socialicons",
           },
           {
@@ -127,13 +135,7 @@
             handle: "bisane_girish",
             style: "socialicons",
           },
-          {
-            id: 5,
-            image: "fa-medium",
-            url: "https://www.medium.com/",
-            handle: null,
-            style: "socialicons",
-          },
+         
         ],
         experience: [
           [
