@@ -75,7 +75,7 @@
       e.exports = {
         firstName: "Girish ",
         lastName: "Bisane",
-        headline: "Software Engineering | Blockchain | Frontend | Cloud | Microservices",
+        headline: "Software Engineering | Frontend | Cloud | Blockchain | Microservices ",
         linkedinId: "girish-bisane",
         githubId: "girishb007",
         instagramId: "girish_bisane",
@@ -83,11 +83,11 @@
         twitterId: "",
         mediumId: "",
         description1:
-          "Actively seeking Summer 2023 SWE Internship, Currenlty Pursuing Master's of Science in Software Engineering at San Jose State University, San Jose, CA will be to graduating in May 2024.\n\nInterested in Frontend development, Blockchain development, development of micro-services, & distributed systems. I have done projects, research work in the field of Enterpirse Applications and Decentralized Systems.",
+          "Actively seeking 2024 Full Time SWE Opportunity, Currenlty Pursuing Master's of Science in Software Engineering at San Jose State University, San Jose, CA will be to graduating in May 2024.\n\nInterested in Frontend development, Blockchain development, development of micro-services, & distributed systems. I have done projects, research work in the field of Enterpirse Applications and Decentralized Systems.",
         description2: 
-        "\nI bring with me two and half years of work experince in Javascript, C++, Android, Salesforce from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
+        "\nI bring with me 2 years of work experince in C++, React, JavaScript and Python from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
         description3:
-        "\nI bring with me two and half years of work experince in Javascript, C++, Android, Salesforce from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase. I am passionate about implementing technology in providing solutions to problem statements that create significant impact and am actively looking for working with people with similar goals and learn from the experience of industry experts.",
+        "\nI bring with me 2 years of work experince in C++, Javascript, Python and Java from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
         githubRepos: "https://github.com/girishb007",
         skills:
           "Java, JavaScript, Python, Golang, C++, Docker, Kubernetes, Kafka, Postman, GraphQL, MySQL, MongoDB, Redis Caching, React, Node, Redux, RESTful API services, HTML, CSS, Bootstrap, Mocha, JMeter, JUnit, GitHub, Linux/Unix, Object-Oriented Design, Scrum, AWS, Google Cloud Platform, Kong API Gateway, TensorFlow, NLP, NumPy, Pandas",
@@ -136,56 +136,6 @@
             style: "socialicons",
           },
          
-        ],
-        experience: [
-          [
-            "Software Development Engineer",
-            "Accenture",
-            "Aug 2021 - Jul 2022",
-            "Bengaluru, India ",
-            [
-              "Engineered the inventory management portal for clients that went live with 1300 Marriott hotels across the globe.",
-              "Integrated website with external services by deploying chained asynchronous callouts and devised Batch Apex to deal operations with bulk data of 20,000 records.",
-              "Reviewed peer team members code and Revamped code coverage from 60% to 90% by writing test classes and utilizing application security tools to identify vulnerabilities.",
-              "SKILLS : JavaScript · Product Management · Microservices · SOQL · Web Services · Apex · Service-Oriented Architecture (SOA)",
-            ],
-          ],
-          [
-            "Associate Software Engineer",
-            "Accenture",
-            "Jul 2020 - Aug 2021",
-            "Bengaluru, India (Remote)",
-            [
-              "Migrated Marsha systems to Salesforce by revising, modularizing, and updating legacy code bases. Leveraged clients existing frameworks and microservices to add new functionalities for the CRM portal.",
-              "Partnered closely with Design team and Built reusable UI/UX component with lightning framework and leveraged more than 70% of Apex for development.",
-              "SKILLS : Webpacks · SFDC · Marsha · Sencha Ext JS · Pardot · TypeScript · Servlets · JavaScript · Microservices",
-            ],
-          ],
-          [
-            "Blockchain Development Intern",
-            "Tech Mahindra (Innovation Lab)",
-            "Oct 2019 - May 2020",
-            "Pune, India",
-            [
-              "Designed and developed a blockchain web portal for the supply chain stakeholders and an android application for the consumers using php,java and solidity. Built webpages to interact with blockchain and optimized the Smart Contracts boosting performance by 40%.",
-              "Utilized Web3.JS libraries for portal to interact with nodes and IPFS for file storage saving bandwidth by 40%. Etherscan was used to generate QR and show transaction history on dashboard.\n",
-              "Analyzed and published a white paper providing solution on How to Secure resources in decentralized cloud system.",
-              "SKILLS : Ethereum · Truffle Framework · Solidity · web3.js · IPFS · Ganache · ERC20 Tokens · MetaMask",
-            ],
-          ],
-          [
-            "Android Developer",
-            "MediSec",
-            "April 2018- June 2018",
-            "Nagpur, India",
-            [
-              "Collaborated with frontend engineers and software developers to develop clean and maintainable RESTful API services and android native application.\n",
-              "Worked on local data storage using shared prefrance, SQLite database and file system\n",
-              "Implemented the web view component to run the locally downloaded data using JQuerry and HTML5 pages.\n",
-              "SKILLS : Android SDK, React Native, FireBase, SQLite, PhoneGap, J2EE, Servlets, Rest API",
-
-            ],
-          ],
         ],
         education: [
           [
