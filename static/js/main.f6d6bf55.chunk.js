@@ -137,6 +137,70 @@
           },
          
         ],
+        experience: [
+          [
+            "Software Engineer Intern",
+            "One Community Global",
+            "May 2023 - July 2023",
+            "San Gabriel, Califronia ",
+            [
+              "Contributed to OneCommunity Global’s mission as a leading provider of open-source tools by developing team management and tracking software",
+              "Implemented ”My Team” filter on Dashboard, enabling task and leaderboard filtering for team members improving overall performance for task management",
+              "Optimized leaderboard performance, reducing conversion delay from intangible to tangible time by 5 seconds",
+              "Technologies used : React.js, Express.js, Node.js, MongoDB",
+            ],
+          ],
+          [
+            "Graduate Research Assistant",
+            "San Jose State Univeristy",
+            "Nov 2022 - Fev 2023",
+            "San Jose, Califronia ",
+            [
+              "Implemented a Layer 2 Bidirectional payment channel inspired by Bitcoin Lightning Network to surmount scalability and transaction volume limitations on the spartangold network.",
+              "Built a reputation and trust framework on top of a spartangold cryptocurrency and revamped the endorsement network's consensus to overcome whitewashing and malicious collective attacks on participating nodes, resulting in a 30% increase in transaction security.",
+              "Technologies used : Blockchain, Layer 2, BitCoin Core, JavaScript, Ganache, Truffle ",
+            ],
+          ],
+          [
+            "Software Development Engineer",
+            "Accenture",
+            "Aug 2021 - Jul 2022",
+            "Bengaluru, India ",
+            [
+              "Led a 4-member team as a seasoned SME for Marriott reservation system, handling client calls and representing offshore teams.",
+              "Responsible for the build of an inventory management CRM portal which went live across 1300 Marriott hotels worldwide.",
+              "Delivered 35% increase in Marriott.com site stability by migrating client's legacy code to Java and designing 15+ microservices.",
+              "Closed over 80 Git issues and reviewed 50+ merge requests, leading to a 45% boost  in code quality.",
+              "Technologies used : CI/CD, Git, Java, Microservices, Restful APIs , PostMan, SpringBoot",
+            ],
+          ],
+          
+          [
+            "Software Development Intern",
+            "Tech Mahindra (Innovation Lab)",
+            "Oct 2019 - May 2020",
+            "Pune, India",
+            [
+              "Integrated anomaly detection model into a website using Flask to reduce service disruption by 30 %.",
+              "Utilized Apache Kafka for movie streaming to reduce data processing time by 70 %.\n",
+              "Implemented semantic search functionality for movies and TV shows, resulting in a 80% improvement in search relevance.",
+              "Technologies used :  C++, Flask, Kafka, CDN , Python",
+            ],
+          ],
+          [
+            "Android Developer",
+            "MediSec",
+            "April 2018- June 2018",
+            "Nagpur, India",
+            [
+              "Collaborated with frontend engineers and software developers to develop clean and maintainable RESTful API services and android native application.\n",
+              "Worked on local data storage using shared prefrance, SQLite database and file system\n",
+              "Implemented the web view component to run the locally downloaded data using JQuerry and HTML5 pages.\n",
+              "Technolgies used : Angular, React Native, Docker, MySQL, Rest API",
+
+            ],
+          ],
+        ],
         education: [
           [
             "Master of Science",
