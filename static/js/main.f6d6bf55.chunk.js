@@ -1,7 +1,7 @@
 (this["webpackJsonpmy-portfolio"] =
   this["webpackJsonpmy-portfolio"] || []).push([
   [0],
-  {
+  { 
     1: function (e, a, t) {
       e.exports = {
         projectHeader: "Styles_projectHeader__28Vmh",
@@ -83,11 +83,11 @@
         twitterId: "",
         mediumId: "",
         description1:
-          "Actively seeking 2024 Full Time SWE Opportunity, Currenlty Pursuing Master's of Science in Software Engineering at San Jose State University, San Jose, CA will be to graduating in May 2024.\n\nInterested in Frontend development, Blockchain development, development of micro-services, & distributed systems. I have done projects, research work in the field of Enterpirse Applications and Decentralized Systems.",
+          "Actively seeking 2024 Full Time SWE Opportunity, Currenlty Pursuing Master's of Science in Software Engineering at San Jose State University, San Jose, CA will be to graduating in May 2024.\n\nInterested in FullStack development, Frontend development , development of micro-services, & scalablle distributed systems. I have done projects, research work in the field of Enterpirse Applications and Decentralized Systems.",
         description2: 
-        "\nI bring with me 2 years of work experince in C++, React, JavaScript and Python from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
-        description3:
         "\nI bring with me 2 years of work experince in C++, Javascript, Python and Java from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
+        description3:
+        "\nI bring with me 2 years of work experince in C++, Javascript, Python and Java from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase. \nYou learn more about my projects at https://devpost.com/girishbisane9423",
         githubRepos: "https://github.com/girishb007",
         skills:
           "Java, JavaScript, Python, Golang, C++, Docker, Kubernetes, Kafka, Postman, GraphQL, MySQL, MongoDB, Redis Caching, React, Node, Redux, RESTful API services, HTML, CSS, Bootstrap, Mocha, JMeter, JUnit, GitHub, Linux/Unix, Object-Oriented Design, Scrum, AWS, Google Cloud Platform, Kong API Gateway, TensorFlow, NLP, NumPy, Pandas",
@@ -137,19 +137,8 @@
           },
          
         ],
+        
         experience: [
-          [
-            "Software Engineer Intern",
-            "One Community Global",
-            "May 2023 - July 2023",
-            "San Gabriel, Califronia ",
-            [
-              "Contributed to OneCommunity Global’s mission as a leading provider of open-source tools by developing team management and tracking software",
-              "Implemented ”My Team” filter on Dashboard, enabling task and leaderboard filtering for team members improving overall performance for task management",
-              "Optimized leaderboard performance, reducing conversion delay from intangible to tangible time by 5 seconds",
-              "Technologies used : React.js, Express.js, Node.js, MongoDB",
-            ],
-          ],
           [
             "Graduate Research Assistant",
             "San Jose State Univeristy",
@@ -442,7 +431,7 @@
                             className: "nav-link lead",
                             href: "/index.html#aboutme",
                           },
-                          "Me"
+                          "About Me"
                         )
                       ),
                       r.a.createElement(
@@ -755,7 +744,7 @@
                   { className: u.a.projectCard },
                   r.a.createElement(
                     "div",
-                    { className: "card-body" },
+                    { className: "card-body"     },
                     r.a.createElement(
                       "div",
                       { className: u.a.projectHeader },
@@ -901,8 +890,13 @@
                 { className: "container container-fluid p-5" },
                 r.a.createElement(
                   "h1",
-                  { className: "display-4 pb-5" },
-                  "Projects"
+                  { className: "display-4 pb-5", style: { color: "#F1F1F1" }  },
+                  "Projects ",
+                  r.a.createElement(
+                    "a",
+                    { href: "https://devpost.com/girishbisane9423", target: "_blank" },
+                    "( DevPost Link )"
+                  )
                 ),
                 r.a.createElement(
                   "div",
@@ -990,9 +984,7 @@
                         r.a.createElement(
                           "div",
                           { className: u.a.dottedLine },
-                          r.a.createElement("div", null, "."),
-                          r.a.createElement("div", null, "."),
-                          r.a.createElement("div", null, ".")
+                         
                         )
                       );
                     })
