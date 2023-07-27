@@ -890,7 +890,7 @@
                 { className: "container container-fluid p-5" },
                 r.a.createElement(
                   "h1",
-                  { className: "display-4 pb-5", style: { color: "#F1F1F1" }  },
+                  { className: "display-4 pb-5", style: { color: "#000000" }  },
                   "Projects ",
                   r.a.createElement(
                     "a",
