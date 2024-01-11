@@ -75,7 +75,7 @@
       e.exports = {
         firstName: "Girish ",
         lastName: "Bisane",
-        headline: "Software Engineering | Frontend | Cloud | Blockchain | Microservices ",
+        headline: "Software Engineering | Full Stack Development | Cloud | Blockchain | ",
         linkedinId: "girish-bisane",
         githubId: "girishb007",
         instagramId: "girish_bisane",
