@@ -140,6 +140,17 @@
         
         experience: [
           [
+            "Software Development Intern",
+            "Tech Mahindra",
+            "May 2023 - Aug 2023",
+            "Plano, Texas",
+            [
+              "Developed React app transforming lengthy video into concise, AI-generated notes utilizing NLP & OpenAI APIs, halving study time.",
+              "Engineered a tailored model trained on 20000+ hours audio to identify filler words; utilized generative AI to create smart quizzes.",
+              "Technologies used :  React, Redux, OpenAI, APIs, JavaScript, NLP",
+            ],
+          ],
+          [
             "Graduate Research Assistant",
             "San Jose State Univeristy",
             "Nov 2022 - Fev 2023",
@@ -157,10 +168,11 @@
             "Bengaluru, India ",
             [
               "Led a 4-member team as a seasoned SME for Marriott reservation system, handling client calls and representing offshore teams.",
-              "Responsible for the build of an inventory management CRM portal which went live across 1300 Marriott hotels worldwide.",
-              "Delivered 35% increase in Marriott.com site stability by migrating client's legacy code to Java and designing 15+ microservices.",
-              "Closed over 80 Git issues and reviewed 50+ merge requests, leading to a 45% boost  in code quality.",
-              "Technologies used : CI/CD, Git, Java, Microservices, Restful APIs , PostMan, SpringBoot",
+              "Responsible for the build of an inventory management portal which went live across 1300+ Marriott hotels worldwide.",
+              "Optimized page performance by 80% by using techniques like caching, lazy loading, reducing redirects and utilizing web workers.",
+              "Elevated Marriott.com's uptime by 33% by migrating legacy code to JavaScript and crafting a suite of 20+ tailored microservices.",
+              "Enhanced SQL query performance through strategic indexing & sharding; fortified database security with JWT implementation",
+              "Technologies used : CI/CD, Git, JavaScript, Microservices, Restful APIs , SQL",
             ],
           ],
           
@@ -170,10 +182,10 @@
             "Oct 2019 - May 2020",
             "Pune, India",
             [
-              "Integrated anomaly detection model into a website using Flask to reduce service disruption by 30 %.",
-              "Utilized Apache Kafka for movie streaming to reduce data processing time by 70 %.\n",
-              "Implemented semantic search functionality for movies and TV shows, resulting in a 80% improvement in search relevance.",
-              "Technologies used :  C++, Flask, Kafka, CDN , Python",
+              "Built website using advanced JavaScript concepts optimizing trade rebalancing using time series data for 10000+ transactions/day.",
+              "Built a framework in Node.js & Angular to validate tax report fields ensuring MiFID compliance through reliable checkpoints.",
+              "Designed a real-time reconciliation engine in JavaScript, interfaced with Kafka, automating 70% of the report update process.",
+              "Technologies used :  JavaScript, Node.JS, Angular, Kafka, HTML, CSS",
             ],
           ],
           [
