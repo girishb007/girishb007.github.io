@@ -322,12 +322,12 @@
     align-items: center;
   }
   .Styles_aboutBg__1Rl1S {
-    background-color: #494949;
-    color: #fff;
+    background-color: #ffffff;
+    color: #000;
     padding: 120px 100px;
   }
   .Styles_projectsPage__3otE_ {
-    background-color:#D9EFED   ;
+    background-color:#f5f5f5   ;
     padding: 100px;
   }
   .Styles_projectDevParent__V_Ri_ {
@@ -354,7 +354,7 @@
     justify-content: space-around;
   }
   .Styles_fullDescDiv1__oRt-r {
-    color: #e2e2e2;
+    color: #000;
     margin: 0 60px;
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -380,7 +380,7 @@
     justify-content: flex-end;
   }
   .Styles_experiencePage__1PYUb {
-    background-color: #494949;
+    background-color: #D9EFED;
     padding: 100px;
   }
   .Styles_hr__2y2Ca {
@@ -493,7 +493,7 @@
     margin: 5px;
     font-size: 14px;
     padding: 8px;
-    background-color: #ff5252;
+    background-color: #000;
     color: #fff;
   }
   .Styles_eduBackHeaderLabel__1miWk {
