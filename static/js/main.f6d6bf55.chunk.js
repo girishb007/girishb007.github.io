@@ -75,7 +75,7 @@
       e.exports = {
         firstName: "Girish ",
         lastName: "Bisane",
-        headline: "Software Engineering | Full Stack Development | Cloud | Blockchain | ",
+        headline: "Software Engineering | Full Stack Development | Blockchain | Cloud | ",
         linkedinId: "girish-bisane",
         githubId: "girishb007",
         instagramId: "girish_bisane",
@@ -85,7 +85,7 @@
         description1:
           "Actively seeking 2024 Full Time SWE Opportunity, Currenlty Pursuing Master's of Science in Software Engineering at San Jose State University, San Jose, CA will be to graduating in May 2024.\n\nInterested in FullStack development, Frontend development , development of micro-services, & scalablle distributed systems. I have done projects, research work in the field of Enterpirse Applications and Decentralized Systems.",
         description2: 
-        "\nI bring with me 2 years of work experince in C++, Javascript, Python and Java from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
+        "\nI bring with me 2 years of work experince in Javascript, C++ and Java from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like React, Angular, AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase.",
         description3:
         "\nI bring with me 2 years of work experince in C++, Javascript, Python and Java from big Companies like Accenture and Tech Mahindra.  I also have expertise in stacks like AWS, Git, Jira, EC2, GraphQL,  Microservices, Kafka, Postman, Truffle and am proficient with database like SQL, MongoDB, Amazon RDS, Postgres, Firebase. \nYou learn more about my projects at https://devpost.com/girishbisane9423",
         githubRepos: "https://github.com/girishb007",
